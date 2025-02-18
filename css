@@ -1,0 +1,27 @@
+/* styles.css */
+ 
+/* Estilos básicos para mobile-first */
+body {
+    font-family: Arial, sans-serif;
+    padding: 10px;
+}
+ 
+.logo {
+    max-width: 100%;
+    height: auto;
+}
+ 
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+ 
+nav ul li {
+    display: inline-block;
+    margin-right: 10px;
+}
+ 
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+}
